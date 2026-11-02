@@ -185,6 +185,8 @@
   },
   "active": "380cb5b4956d5cc1",
   "lastOpenFiles": [
+    "source/quartz/styles/timeline.scss",
+    "source/quartz/plugins/transformers/timeline.ts",
     "source/content/index.md",
     "source/content/Technology/Flash-Line.md",
     "source/content/Technology/Otherplane Engine.md",
@@ -216,7 +218,6 @@
     "source/content/Organisations",
     "source/content/OOC",
     "source/content/Locations",
-    "source/content/Creatures",
-    "source/content/category-folder/Some note.md"
+    "source/content/Creatures"
   ]
 }
