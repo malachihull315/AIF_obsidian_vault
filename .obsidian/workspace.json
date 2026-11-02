@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/CODE_OF_CONDUCT.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -179,11 +179,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "380cb5b4956d5cc1",
   "lastOpenFiles": [
+    "source/content/index.md",
     "source/content/Technology/Flash-Line.md",
     "source/content/Technology/Otherplane Engine.md",
     "source/content/Technology/Sousa Wormhole Device.md",
@@ -215,7 +217,6 @@
     "source/content/OOC",
     "source/content/Locations",
     "source/content/Creatures",
-    "source/content/category-folder/Some note.md",
-    "source/content/category-folder/index.md"
+    "source/content/category-folder/Some note.md"
   ]
 }
